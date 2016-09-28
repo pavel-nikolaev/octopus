@@ -1,3 +1,4 @@
+Resolved only second
 Resolved only one
 Resolve both issues
 Once again
