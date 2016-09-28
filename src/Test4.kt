@@ -1,3 +1,4 @@
+Resolved only one
 Resolve both issues
 Once again
 Add each build to the bundle
